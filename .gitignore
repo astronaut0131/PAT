@@ -1,0 +1,7 @@
+.DS_Store
+.exe
+test
+__pycache__
+.out
+*.exe
+!*.cpp
